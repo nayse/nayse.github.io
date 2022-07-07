@@ -30,7 +30,7 @@ Technological Development(UFAL/CNPQ).
   Scientific Methods in Computer Science (Undergraduate, 2021)
 - **Computer Scientist Intern at Secretary of Alagoas State Finance: Sector(Tax Economic
 Information Management)**
-- **Research and Development intern at Id5(SECTI/FAPEAL)**
+- **Research and Development Intern at Id5(SECTI/FAPEAL)**
 
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
