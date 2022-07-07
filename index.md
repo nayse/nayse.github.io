@@ -17,7 +17,8 @@ I am a Computer Science student at Federal University of Alagoas.
 - 2013 - 2015: High School. 
 
 ## Work Experience
-
+- 2018 - 2019: Research Assistant at the Federal University of Alagoas and National Council for scientific and
+Technological Developmen.
 - 2018 - 2021: Teaching Assistant at the Federal University of Alagoas for the following classes:
   <br>
   Algorithms and Computer Programming (Undergraduate, 2020).
