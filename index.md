@@ -2,27 +2,25 @@
 layout: homepage
 ---
 
-## About Me
+## Hello!
 
-I am a Ph.D. student at ...
+I am a Computer Science student at Federal University of Alagoas.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Data Science:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- 2017 - 2023: Bachelor in Computer Science. Federal University of Alagoas, Brazil. 
+- 2013 - 2015: High School. 
 
-## Publications
+## Work Experience
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- 2018 - 2021: Teaching Assistant at the Federal University of Alagoas for the following classes:
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  Algorithms and Computer Programming
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
   <br>
