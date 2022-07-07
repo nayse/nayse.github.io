@@ -25,7 +25,7 @@ Technological Development(UFAL/CNPQ).**
   <br>
   Society and Development (Undergraduate, 2019)
   <br>
-  Data structure (Undergraduate, 2021)
+  Data Structure (Undergraduate, 2021)
   <br>
   Scientific Methods in Computer Science (Undergraduate, 2021)
 - **Computer Scientist Intern at Secretary of Alagoas State Finance: Sector(Tax Economic
