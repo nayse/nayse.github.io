@@ -8,8 +8,8 @@ I am a Computer Science student at Federal University of Alagoas.
 
 ## Research Interests
 
-- **Data Science:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Data Science:** 
+- **Machine Learning:** 
 
 ## Education
 
