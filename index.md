@@ -17,8 +17,8 @@ I am a Computer Science student at Federal University of Alagoas.
 - 2013 - 2015: High School. 
 
 ## Work Experience
-- 2018 - 2019: Research Assistant at the Federal University of Alagoas and National Council for scientific and
-Technological Developmen.
+- 2018 - 2019: Research Assistant at the Federal University of Alagoas and National Council for Scientific and
+Technological Development(UFAL/CNPQ).
 - 2018 - 2021: Teaching Assistant at the Federal University of Alagoas for the following classes:
   <br>
   Algorithms and Computer Programming (Undergraduate, 2020).
@@ -28,6 +28,9 @@ Technological Developmen.
   Data structure (Undergraduate, 2021)
   <br>
   Scientific Methods in Computer Science (Undergraduate, 2021)
+- Computer Scientist Intern at Secretary of Alagoas State Finance: Sector(Tax Economic
+Information Management)
+
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
