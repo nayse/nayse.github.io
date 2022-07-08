@@ -28,9 +28,9 @@ Technological Development(UFAL/CNPQ).**
   Data Structure (Undergraduate, 2021)
   <br>
   Scientific Methods in Computer Science (Undergraduate, 2021)
-- **Computer Scientist Intern at Secretary of Alagoas State Finance: Sector(Tax Economic
+- **2022 - Computer Scientist Intern at Secretary of Alagoas State Finance: Sector (Tax Economic
 Information Management)**
-- **Research and Development Intern at Id5(SECTI/FAPEAL)**
+- **022 - Research and Data Scientist Intern at Id5(SECTI/FAPEAL)**
 
 
 ## Publications
