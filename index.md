@@ -19,7 +19,7 @@ I am a Computer Science student at Federal University of Alagoas.
 ## Work Experience
 - **2018 - 2019: Research Assistant at the Federal University of Alagoas and National Council for Scientific and
 Technological Development(UFAL/CNPQ).**
-- **2018 - 2021: Teaching Assistant at the Federal University of Alagoas for the following classes:**
+- **2019 - 2021: Teaching Assistant at the Federal University of Alagoas for the following classes:**
   <br>
   Society and Development (Undergraduate, 2019)
   <br>
