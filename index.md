@@ -25,7 +25,6 @@ Technological Development(UFAL/CNPQ).**
   <br>
   Algorithms and Computer Programming (Undergraduate, 2020).
   <br>
-  <br>
   Data Structure (Undergraduate, 2021)
   <br>
   Scientific Methods in Computer Science (Undergraduate, 2021)
